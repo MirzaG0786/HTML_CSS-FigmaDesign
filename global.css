@@ -1,0 +1,133 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+}
+.nav_button_1{
+    border: 1px solid #18A0FB;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.29px;
+    letter-spacing: -0.015em;
+    text-align: center;
+    width: 130px;
+    height: 40px;
+    border-radius: 6px;
+    background: #FFFFFF;
+}
+.nav_button_2{
+    width: 130px;
+    height: 40px;
+    border-radius: 6px;
+    margin: 30px 60px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.29px;
+    letter-spacing: -0.015em;
+    text-align: center;
+    background: #18A0FB;
+}
+
+.sample_logo{
+    width: 126px;
+    height: 32px;
+    position: relative;
+    top: 34px;
+    left: 80px;
+    gap: 0px;
+    opacity: 0px;
+}
+.nav_union1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.nav_union2{
+    position: absolute;
+    top: 2px;
+    left: 1px;
+}
+.nav_img{
+    margin-left: 35px;
+}
+ul li{
+    list-style-type: none;
+    display: inline-flex;
+    margin: 40px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.29px;
+    letter-spacing: -0.015em;
+    text-align: center;
+}
+.section1{
+    width: 100%;
+    height: 600px;
+    top: 100px;
+    gap: 0px;
+    position: absolute;
+    opacity: 0px;
+    background: #00000080;
+    background-image: url(./banner\ \(2\).png);
+}
+.Sec1_para{
+    width: 1392px;
+    height: 80px;
+    position: absolute;
+    top: 331px;
+    left: 144px;
+    opacity: 1px;
+    font-family: Montserrat;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 80px;
+    letter-spacing: -0.015em;
+    text-align: center;
+    color: #FFFFFF;
+}
+.Sec1_button{
+    width: 192px;
+    height: 52px;
+    position: absolute;
+    top: 445px;
+    left: 745px;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: -0.015em;
+    color: #FFFFFF;
+    border-radius: 6px;
+    background-color: #18A0FB;
+}
+.section2{
+    width: 100%;
+    height: 948px;
+    top: 700px;
+    opacity: 0px;
+    background: #FFFFFF;
+}
+.Sec2_para{
+    width: 650px;
+    height: 144px;
+    position: absolute;
+    top: 760px;
+    left: 80px;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.015em;
+    text-align: left;
+    color: #000000;
+}
